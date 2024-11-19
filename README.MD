@@ -59,7 +59,8 @@ crie um título curto para esse ebook. Me dê 5 opções de títulos.
 
 Bing Image Creator：
 ```
-crie uma imagem de uma tela de notebook em cima de uma mesa contendo imagens relacionadas a inteligencia artificial. Essa imagem deve ter tons na cor #3d70cb
+crie uma imagem de uma tela de notebook em cima de uma mesa contendo imagens
+relacionadas a inteligencia artificial. Essa imagem deve ter tons na cor #3d70cb
 ```
 
 
@@ -75,6 +76,8 @@ crie uma imagem de uma tela de notebook em cima de uma mesa contendo imagens rel
 - ebook gerado durante as aulas em `output`
 
 
+<a href="https://github.com/silvanat/prompts-recipe-to-create-a-ebook/blob/main/ebook-transformacao-digital.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<br/><br/>
 
 ## 👨‍💻 Expert
 
@@ -96,7 +99,7 @@ silvanaty">LinkedIn</a>
 </p>
 </p>
 <br/><br/>
-<a href="https://github.com/silvanat/prompts-recipe-to-create-a-ebook/blob/main/ebook-transformacao-digital.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 <p>
 
 ---
