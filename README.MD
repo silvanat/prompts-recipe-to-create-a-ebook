@@ -24,12 +24,13 @@
 
 <br><br>
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/silvanat/prompts-recipe-to-create-a-ebook/blob/main/ebook-transformacao-digital.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<br/><br/>
+
+> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
 <br/><br/>
 
 ## 💻 Tecnologias utilizadas no projeto
