@@ -18,7 +18,11 @@
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
+<br><br>
+**Título**: Transformação Digital Sem Código
+**Tema**: Transformação Digital com o uso de Plataformas No-Code e Low-Code
 
+<br><br>
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
 
