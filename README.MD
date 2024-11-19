@@ -21,8 +21,7 @@
 <br><br>
 **Título**: Transformação Digital Sem Código<br><br>
 **Tema**: Transformação Digital com o uso de Plataformas No-Code e Low-Code
-
-<br><br>
+<br>
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
