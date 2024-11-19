@@ -72,11 +72,6 @@ relacionadas a inteligencia artificial. Essa imagem deve ter tons na cor #3d70cb
 - Imagens geradas via Bing image creator
 - Montagem do ebook no Google Presentation
 <br/><br/>
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
 
 <a href="https://github.com/silvanat/prompts-recipe-to-create-a-ebook/blob/main/ebook-transformacao-digital.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 <br/><br/>
