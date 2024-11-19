@@ -39,17 +39,16 @@ seguem abaixo.
 ChatGPT：
 primeiro foi criado o texto do ebook e depois o título
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-                                                |
-| conteúdo | faça um texto para ebook com foco em usar plataformas no code e low code, informando as principais vantagens e desvantagens de se usar nas empresas
-
+Conteúdo:
+faça um texto para ebook com foco em usar plataformas no code e low code, informando as principais vantagens e desvantagens de se usar nas empresas
 {REGRAS}
 > explique sempre de uma maneira simples
 > Deixe o texto enxuto
-> sempre deixe um título sugestivo por tópico|
+> sempre deixe um título sugestivo por tópico
 
-|  título  | crie um título curto para esse ebook. Me dê 5 opções de títulos. 
+Título: crie um título curto para esse ebook. Me dê 5 opções de títulos. 
+
+
 
 Bing Image Creator：
 
