@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/silvanat/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/silvanat/prompts-recipe-to-create-a-ebook/blob/main/ebook-transformacao-digital.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -89,13 +89,14 @@ crie uma imagem de uma tela de notebook em cima de uma mesa contendo imagens rel
     &nbsp&nbsp&nbsp
     <a href="https://github.com/silvanat">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
+    <a href="https://linkedin.com/in/
 silvanaty">LinkedIn</a>
 &nbsp;|&nbsp;
   
 </p>
 </p>
 <br/><br/>
+<a href="https://github.com/silvanat/prompts-recipe-to-create-a-ebook/blob/main/ebook-transformacao-digital.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 <p>
 
 ---
