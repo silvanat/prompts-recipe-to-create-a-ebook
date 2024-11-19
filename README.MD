@@ -38,25 +38,30 @@ seguem abaixo.
 
 ChatGPT：
 primeiro foi criado o texto do ebook e depois o título
+
+para gerar o conteúdo:
+
 ```
-Conteúdo: faça um texto para ebook com foco em usar plataformas no code e low code, informando as principais vantagens e desvantagens de se usar nas empresas
+faça um texto para ebook com foco em usar plataformas no code e low code, informando 
+as principais vantagens e desvantagens de se usar nas empresas
+
 {REGRAS}
 > explique sempre de uma maneira simples
 > Deixe o texto enxuto
 > sempre deixe um título sugestivo por tópico
 ```
-| Ação   |  prompt                           |
-| :---------- | :---------------------------------- |
-| `Conteúdo` | `faça um texto para ebook com foco em usar plataformas no code e low code, informando as principais vantagens e desvantagens de se usar nas empresas\**{REGRAS}\** > explique sempre de uma maneira simples\** > Deixe o texto enxuto\** > sempre deixe um título sugestivo por tópico` |
-| `Título` |`crie um título curto para esse ebook. Me dê 5 opções de títulos. `|
+para gerar o título:
 
+```
+crie um título curto para esse ebook. Me dê 5 opções de títulos.
+```
 
 
 Bing Image Creator：
+```
+crie uma imagem de uma tela de notebook em cima de uma mesa contendo imagens relacionadas a inteligencia artificial. Essa imagem deve ter tons na cor #3d70cb
+```
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | crie uma imagem de uma tela de notebook em cima de uma mesa contendo imagens relacionadas a inteligencia artificial. Essa imagem deve ter tons na cor #3d70cb |
 
 ## ✨ Features
 
@@ -78,9 +83,9 @@ Bing Image Creator：
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/1665405?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspSilvana T. Ynemine<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/silvanat">
     GitHub</a>&nbsp;|&nbsp;
@@ -95,4 +100,4 @@ silvanaty">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Silvana Ynemine](https://github.com/silvanat)
+⌨️ com 💜 por [Silvana T. Y.](https://github.com/silvanat)
