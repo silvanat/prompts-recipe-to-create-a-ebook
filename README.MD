@@ -22,24 +22,25 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/silvanat/prompts-recipe-to-create-a-ebook/blob/main/ebook-transformacao-digital.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<br/><br/>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Bing Image Creator](https://www.bing.com/)
 - [Google Presentation](https://docs.google.com/presentation/)
-
+<br/><br/>
 ## 🧠 Prompts
 
 
 ChatGPT：
 primeiro foi criado o texto do ebook e depois o título
 
-para gerar o conteúdo:
+Conteúdo:
 
 ```
 faça um texto para ebook com foco em usar plataformas no code e low code, informando 
@@ -50,26 +51,27 @@ as principais vantagens e desvantagens de se usar nas empresas
 > Deixe o texto enxuto
 > sempre deixe um título sugestivo por tópico
 ```
-para gerar o título:
+<br/><br/>
+Título:
 
 ```
 crie um título curto para esse ebook. Me dê 5 opções de títulos.
 ```
 
-
+<br/><br/>
 Bing Image Creator：
 ```
 crie uma imagem de uma tela de notebook em cima de uma mesa contendo imagens
 relacionadas a inteligencia artificial. Essa imagem deve ter tons na cor #3d70cb
 ```
 
-
+<br/><br/>
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Bing image creator
 - Montagem do ebook no Google Presentation
-
+<br/><br/>
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
